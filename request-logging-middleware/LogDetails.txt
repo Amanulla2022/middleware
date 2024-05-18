@@ -1,0 +1,2 @@
+Hey Amanulla Request received in /mydata with GET method from ::1 at Timestamp: 2024-05-18T16:14:30.241Z  
+ 
